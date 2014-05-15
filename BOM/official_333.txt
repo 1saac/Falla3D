@@ -40,7 +40,9 @@ Screw,nuts...
 
 Bearings
 	•	2 605 bearings
-	•	18 603zz bearings
+	•	18 105 ZZ / 5 10 4 mm bearings
+	•	10 603-ZZ / 3 9 5 mm bearings
+
 
 Belts and pulley
 	•	1400 mm T2 open belt 
