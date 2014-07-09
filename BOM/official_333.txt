@@ -51,7 +51,7 @@ Belts and pulley
 
 Motor
 	•	3 NEMA 14 - 18 N/cm
-	•	3 NEMA 17 - +50 N/cm 
+	•	2 NEMA 17 - +50 N/cm 
 
 20x20 Profile
 	•	13x300mm alluminium profile 20x20 type B   (6mm)
@@ -75,11 +75,11 @@ Extruder
 	•	3031 crimp terminals
 	•	2x3-way female housing
 	•	Cap Screws
-	•	4mm OD PTFE tube
-	•	2 drive gear diameter 11mm
+	•	4mm OD 2mm ID PTFE tube 40cm
+	•	1 drive gear diameter 11mm
 
 Electronics
-	•	1 Ramps 1.4 + fan
+	•	1 Ramps 1.4 + fan 50x50
 	•	1 power supply +25a
 	•	1 heated bed 
 
