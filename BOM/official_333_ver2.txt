@@ -1,0 +1,116 @@
+Official BOM Fa)(a 3D
+dimension 30x30x30
+dimension max printing 20x20x20
+(www.falla3d.com)
+
+
+Printed parts:
+(with falla3d 0.5hotend
+layer height 0.3 
+shell t: 1
+print speed 55mm/sec)
+
+
+>PLAorABS 200g 10h
+>Nylon 618 20g 1,5h
+>ABS 20g 2,5h
+
+LaserCut parts:
+Required:
+Angle_6x_Kerf_009.dxf
+AngleMotor_2x_Kerf_009.dxf
+Back_Kerf_009.dxf
+CoverFront_Kerf_009.dxf
+CoverTop_Kerf_009.dxf
+Plate_Kerf_009.dxf
+Underplate_Kerf_009.dxf
+cork_nema14.dxf
+
+- Optional:
+x2_Lateral.dxf
+Front.dxf
+4x_spoolHolder.dxf
+
+
+Screw,nuts...
+	•	16 m3x10
+	•	4 m3x14
+	•	19 m3x20
+	•	10 m3x35
+	•	12 m3x30
+
+
+
+	•	2 m3x50
+	•	14 m3 nuts
+	•	14 m3 locknuts 
+
+	•	80 m4x8
+	•	80 T-nut m4
+	•	4 m5x350 screw bars
+	•	 
+	•	36 M5 nuts
+	•	4 M5 locknuts 
+	•	2 m5x35
+	•	2 m5x12
+
+
+Bearings
+	•	2 605 bearings
+	•	16 105 ZZ / 5 10 4 mm bearings
+	•	8 603-ZZ / 3 9 5 mm bearings
+
+
+Belts and pulley
+	•	1800 mm T2 open belt 
+	•	1380 mm T2 closed belt
+	•	8 T2 pulley 20 teth
+
+Motor
+	•	3 NEMA 14 - 18 N/cm
+	•	2 NEMA 17 - +50 N/cm 
+
+20x20 Profile
+	•	13x300mm alluminium profile 20x20 type B   (6mm)
+
+Extruder
+	⁃	Hot end kit
+	•	Polyolefin (black) heatshrink
+	•	PTFE heatshrink (clear)
+	•	100k Thermistor
+	•	Bowden start
+	•	Bowden end
+	•	Heater block
+	•	0.5mm One piece nozzle
+	•	PTFE liner
+	•	Tapered nut
+	•	Heatsink block
+	•	Double coil spring washers
+	•	Fan + heatsink
+	•	Cartridge Heater
+	•	0.1" crimp terminals
+	•	3031 crimp terminals
+	•	2x3-way female housing
+	•	Cap Screws
+	•	4mm OD 2mm ID PTFE tube 40cm
+	•	1 drive gear diameter 11mm
+
+Electronics
+	•	1 Ramps 1.4 + fan 40x40
+	•	1 power supply 30a
+	•	1 heated bed 
+
+Magnets
+	•	12 magnets  20 x 4 x 2 mm, NdFeB, N45
+	•	30 magnets  50 x 5 x 3 mm, NdFeB, N35
+
+Endstop
+	•	1 optical endstop
+	•	2 mechanic endstop 12,8mm X 6,5mm X 5,8mm
+
+Other
+	•	1 spring 35mm
+	•	1 plug shuko 
+	•	1 on/off switch
+	•	25 ties/band 100mm
+
