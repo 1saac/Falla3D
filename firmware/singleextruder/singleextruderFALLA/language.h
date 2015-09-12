@@ -18,7 +18,7 @@
 // 9  Finnish
 
 #ifndef LANGUAGE_CHOICE
-#define LANGUAGE_CHOICE 1  // Pick your language from the list above
+#define LANGUAGE_CHOICE 7  // Pick your language from the list above
 #endif
 
 #define PROTOCOL_VERSION "1.0"
@@ -30,8 +30,8 @@
 	#define MACHINE_NAME "Rumba"
 	#define FIRMWARE_URL "https://github.com/ErikZalm/Marlin/"
 #else
-	#define MACHINE_NAME "Mendel"
-	#define FIRMWARE_URL "http://www.mendel-parts.com"
+	#define MACHINE_NAME "Fa)(a3D"
+	#define FIRMWARE_URL "http://www.falla3d.com"
 #endif
 
 #define STRINGIFY_(n) #n

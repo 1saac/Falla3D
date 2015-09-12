@@ -17,8 +17,8 @@
 #define SERIAL_PORT 0
 
 // This determines the communication speed of the printer
-#define BAUDRATE 250000
-//#define BAUDRATE 115200
+//#define BAUDRATE 250000
+#define BAUDRATE 115200
 
 //// The following define selects which electronics board you have. Please choose the one that matches your setup
 // 10 = Gen7 custom (Alfons3 Version) "https://github.com/Alfons3/Generation_7_Electronics"
@@ -134,7 +134,7 @@
 //    #define  DEFAULT_Kp 22.2
 //    #define  DEFAULT_Ki 1.08  
 //    #define  DEFAULT_Kd 114  
-// Prusa falai3
+// falla3d
     #define  DEFAULT_Kp 15.58
     #define  DEFAULT_Ki 0.98  
     #define  DEFAULT_Kd 61.76 
@@ -287,8 +287,8 @@ const bool Z_ENDSTOPS_INVERTING = false; // set to true to invert the logic of t
 // default settings 
 
 #define DEFAULT_AXIS_STEPS_PER_UNIT   {81.0000, 81.0000, 4045, 90.1}  //3985- 18 thoot on motor  4045- 20 thoot on motor   
-#define DEFAULT_MAX_FEEDRATE          {400, 400, 3, 50}    // (mm/sec)
-#define DEFAULT_MAX_ACCELERATION      {1800,1800,50,10200}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
+#define DEFAULT_MAX_FEEDRATE          {400, 400, 2, 60}    // (mm/sec)
+#define DEFAULT_MAX_ACCELERATION      {1800,1800,40,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
 
 #define DEFAULT_ACCELERATION          1800    // X, Y, Z and E max acceleration in mm/s^2 for printing moves 
 #define DEFAULT_RETRACT_ACCELERATION  1800   // X, Y, Z and E max acceleration in mm/s^2 for r retracts
@@ -302,7 +302,7 @@ const bool Z_ENDSTOPS_INVERTING = false; // set to true to invert the logic of t
 // The speed change that does not require acceleration (i.e. the software might assume it can be done instanteneously)
 #define DEFAULT_XYJERK                15.0    // (mm/sec)
 #define DEFAULT_ZJERK                 0.4     // (mm/sec)
-#define DEFAULT_EJERK                 10.0    // (mm/sec)
+#define DEFAULT_EJERK                 5.0    // (mm/sec)
 
 //===========================================================================
 //=============================Additional Features===========================
@@ -317,7 +317,7 @@ const bool Z_ENDSTOPS_INVERTING = false; // set to true to invert the logic of t
 //#define EEPROM_SETTINGS
 //to disable EEPROM Serial responses and decrease program space by ~1700 byte: comment this out:
 // please keep turned on if you can.
-//#define EEPROM_CHITCHAT
+#define EEPROM_CHITCHAT
 
 //LCD and SD support
 //#define ULTRA_LCD  //general lcd support, also 16x2

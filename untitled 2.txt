@@ -1,0 +1,28 @@
+1. As mentioned in the prvious emails, we don't usually send fully mounted machines, so that we haven't an equipped packaging for them. However, we apologize for every damage to the machine caused by the shipping and we will resend you the damaged parts. (If you want, you can also print them and this is the file)
+
+2. The LCD 2004 controller has been unplugged for security reasons. In order to switch it on, you just have to connect the two cables and switching the printer on. If the LCD controller doesn't switch on, just switch the printer off, invert the cables and restart the printer again (there is no problem doing this).
+
+3.As you can notice, in the BOM list you have the electronics model used on your printer, with all the components mounted on it.
+Willing to provide you a good experience we included in the package some optional parts for free:
+- LCD screen+SD card reader
+- cooling system for PLA (fans and accessories)
+- lateral panels
+- magnetic bed
+
+4. You can configure your Octoprint by:
+-copying the modified Octoprint version in your Raspeberry pi model B version
+-inserting a dongle wifi (wipi) in an usb port
+- connecting the printer via usb to the raspberry pi
+-powering the rasperry pi
+switching the printer on
+
+Now, you should have a wifi network called falla3d.
+-select it
+passwrod: provaFALLA
+
+to connect to the control panel of the printer
+open browser at http://192.168.43.14:5000
+ccount: mondrian2
+passw: provamondrian
+
+5. The printer has been used and switched on in order to test it and to complete the calibration. You should have found the result of the trial print on the bed.
